@@ -12,7 +12,7 @@ A simple calculator application built using PyQt5, a library for creating deskto
 
 ## Screenshots
 
-![Calculator Answer](https://github.com/ChristianGleitzman/Calculator/blob/main/images/calculation.PNG)
+![Calculator Calculation](https://github.com/ChristianGleitzman/Calculator/blob/main/images/calculation.PNG)
 ![Calculator Answer](https://github.com/ChristianGleitzman/Calculator/blob/main/images/answer.PNG)
 
 ## Improvements
