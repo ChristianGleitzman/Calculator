@@ -16,3 +16,8 @@ A simple calculator application built using PyQt5, a library for creating deskto
 ![Calculator Answer](https://github.com/ChristianGleitzman/Calculator/blob/main/images/answer.PNG)
 
 ## Improvements
+
+- More scientific functions such as integration or differentiation using modules such as SymPy
+- Options to streamline the calculator between a simple or scientific calculator
+- The ability to use mathematical constants in their symbolic forms
+- More advanced storage options such as storing multiple different answers
