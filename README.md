@@ -6,7 +6,7 @@ A simple calculator application built using PyQt5, a library for creating deskto
 
 - Basic arithmetic operations (addition, subtraction, multiplication, division)
 - Ability to chain multiple operations together (e.g. 3 + 5 x 6)
-- Memory functions (memory clear, recall, and addition/subtraction)
+- Memory functions (memory clear and recall)
 - Clear and backspace buttons
 - Scientific functions (sin, cos, tan, log, square root)
 
